@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570018783 source:e:\codeblockproject\question6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
